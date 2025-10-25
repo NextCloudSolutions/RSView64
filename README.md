@@ -1,4 +1,5 @@
 #RSView X64
+
 Latest: Merge with New RShandler + Enhanced Session Metrics
 
 Issue Title: Login Button Unresponsive on First Click Component: Authentication UI
